@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_StudentSystem", "P01_StudentSystem\P01_StudentSystem.csproj", "{67D2E32E-DB63-47EC-92D9-5F4B99C03AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeStore", "BikeStore\BikeStore.csproj", "{8E1A7D5E-7904-4F24-BF42-E4A3CEF0876B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D2E32E-DB63-47EC-92D9-5F4B99C03AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D2E32E-DB63-47EC-92D9-5F4B99C03AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D2E32E-DB63-47EC-92D9-5F4B99C03AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D2E32E-DB63-47EC-92D9-5F4B99C03AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1A7D5E-7904-4F24-BF42-E4A3CEF0876B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1A7D5E-7904-4F24-BF42-E4A3CEF0876B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1A7D5E-7904-4F24-BF42-E4A3CEF0876B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1A7D5E-7904-4F24-BF42-E4A3CEF0876B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A15F2F2-7FE0-4CC7-A8FC-F1ED51790139}
+	EndGlobalSection
+EndGlobal
